@@ -2,10 +2,16 @@
 
 ### Annenberg School for Communication 
 
-Fall 2020: M/W 5:00-6:30pm (Zoom)
+Fall 2021: M/W 10:00-11:30am (Zoom)
 
 Professor: Dr. Matt O'Donnell Email: mbod@asc.upenn.edu
 
+
+
+
+### Syllabus
+
+* [Link to draft syllabus (subject to change)](syllabus.md)
 
 
  

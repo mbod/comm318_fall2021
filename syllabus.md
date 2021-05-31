@@ -1,22 +1,14 @@
 ## COMM318: _Stories from data_: Introduction to programming for data journalism
 
-**Fall 2020: M/W 5:00-6:30pm**  
+**Fall 2021: M/W 10:00-11:30am**  
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
 **Email**: mbod@asc.upenn.edu
-
-**TA**: Darin Johnson (he/him/his)
-**Email**: darin.johnson@asc.upenn.edu
 
 
 **Office hours**: Virtual online meetings through Zoom
 
 * Initially we have scheduled:
-
-	1. Thursdays 4-5.30pm EST when Darin will be available
-		 * To schedule a 15 minute slot go to:
-
-		 https://www.wejoinin.com/sheets/axytb
 
 	2. Fridays 1-2pm EST Friday will be an open coding help session
 
@@ -98,6 +90,12 @@ A central goal of this class is to help students begin to develop programming sk
 ## Course Schedule
 
 * **N.B.** - This is a tentative schedule that is subject to change
+
+
+### THIS IS CURRENTLY BEING UPDATED
+
+
+<strike>
 
 ### Week 1 - Overview
 * Wed 09/02/20 - **Course overview** + JupyterHub setup
@@ -197,3 +195,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 ### FINAL PROJECT DUE 11.59pm 12/20/20
+</strike>	
+
+
+
