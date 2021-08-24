@@ -1,8 +1,9 @@
 ## COMM318: _Stories from data_: Introduction to programming for data journalism
 
-**Fall 2021: M/W 10:00-11:30am**  
+**Fall 2021: M/W 3:30-5:00pm**  
 
-**Professor**: Dr. Matt O'Donnell (he/him/his)
+**Professor**: Dr. Matt O'Donnell (he/him/his) 
+
 **Email**: mbod@asc.upenn.edu
 
 
@@ -40,7 +41,17 @@ in which students will work through programming exercises using Jupyter notebook
 
 ## Resources
 
-* Readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
+* Recommended reading
+
+    * The two books by Ben Jones in The Data Literacy Series:
+      1. _Data Literacy Fundamentals: Understanding the Power & Value of Data_ 
+      2. _Learning to See Data: How to Interpret the Visual Language of Charts_ 
+    * Tim Harford, _The Data Detective: Ten Easy Rules to Make Sense of Statistics_. Riverhead Books (February 2, 2021)
+    * David Spiegelhalter, _The Art of Statistics: How to Learn from Data_. Basic Books (August 17, 2021)
+    
+  
+  
+* Other readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
 
 
 ## Assessment
@@ -95,107 +106,107 @@ A central goal of this class is to help students begin to develop programming sk
 ### THIS IS CURRENTLY BEING UPDATED
 
 
-<strike>
 
 ### Week 1 - Overview
-* Wed 09/02/20 - **Course overview** + JupyterHub setup
+* Wed 09/01/21 - **Course overview** + JupyterHub setup
 
 ### Week 2 - Python basics (1) + stories in simple data
-* Mon 09/08/20 - NO CLASS (Labor Day)
+* Mon 09/06/21 - NO CLASS (Labor Day)
 
-* Wed 09/09/20 Introduction to notebooks, Markdown & Python
+* Wed 09/08/21 Introduction to notebooks, Markdown & Python
 	* Basics of Python Part 1
 		* Objects, pointers & some built in functions
 		* Introducing lists & indexing
 	* Finding stories in simple data.
 
+
+<strike>
+
+
 ### Week 3 - Python basics (2)
-* Mon 09/14/20 - Lists, indexing
+* Mon 09/13/21 - Lists, indexing
 	* Basics of Python Part 2
 	  * Lists, indexing and slicing
 	  * Loops and conditions
 	* _Assignment 1 available in JupyterHub_
-* Wed 09/16/20 - Lab session
+* Wed 09/15/21 - Lab session
 	* Working with lists and using loops and conditions
 
-* Fri 09/18/20 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Fri 09/17/21 - __Assignment 1 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 4 - Working with _Open Data_ & Python basics (3)
-* Mon 09/21/20 - data initiatives & repositories e.g. data.gov
+* Mon 09/20/21 - data initiatives & repositories e.g. data.gov
 	* Basics of Python Part 3
 		* Dictionaries
 		* User functions
 	* _Assignment 2 available in JupyterHub_
-* Wed 09/23/20 - Lab session - Reviewing Python basics
-* Fri 09/25/20 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Wed 09/22/21 - Lab session - Reviewing Python basics
+* Fri 09/24/21 - __Assignment 2 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 5 - Understanding basic data structures as the components of stories
-* Mon 09/28/20 - Tabular data - rows, columns. Looking for stories.
+* Mon 09/27/21 - Tabular data - rows, columns. Looking for stories.
   * Working with data in tables using Pandas (Part 1)
 	* _Assignment 3 available in JupyterHub_
-* Wed 09/30/20 - Lab session - Working with Pandas #1
-* Fri 10/02/20 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Wed 09/29/21 - Lab session - Working with Pandas #1
+* Fri 10/01/21 - __Assignment 3 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 6 - Working with data tables (Part 1) - Finding story dimensions in numbers.
-* Mon 10/05/20 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
+* Mon 10/04/21 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
   * Working with data in tables using Pandas (Part 2)
 	* _Assignment 4 available in JupyterHub_
-* Wed 10/07/20 - Lab session - Working with Pandas #2 & git & github repos
-* Fri 10/09/20 - __Assignment 4 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Wed 10/06/21 - Lab session - Working with Pandas #2 & git & github repos
+* Fri 10/08/21 - __Assignment 4 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 7 - What is data journalism and what can it do?
-* Mon  10/12/20 - Telling the news from data
-* Wed 10/14/20 - Project planning and discussion
-* Fri 10/16/20 - __Initial Project Proposal Notebook DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Mon  10/11/21 - Telling the news from data
+* Wed 10/13/21 - Project planning and discussion
+* Fri 10/15/21 - __Initial Project Proposal Notebook DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 8 - Data visualization (Part 1) - Supporting stories with plots
-* Mon  10/19/20 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
+* Mon  10/18/21 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
   * _Assignment 5 available in JupyterHub_
-* Wed 10/21/20 - Lab session - Setting
-* Sun 10/25/20 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Wed 10/20/21 - Lab session - Setting
+* Fri 10/22/21 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 9 - Working with data tables (Part 2) - Summarizing and comparing data dimensions + Exploratory visualization
-* Mon  10/26/20 - Lab Session - Reviewing data article & visualization
-* Wed 10/28/20 - Working with filters and grouping. Reshaping data and using Pandas plotting functions
+* Mon  10/25/21 - Lab Session - Reviewing data article & visualization
+* Wed 10/27/21 - Working with filters and grouping. Reshaping data and using Pandas plotting functions
 
 ### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
-*  Mon  11/02/20 - Merging and joining data
+*  Mon  11/01/21 - Merging and joining data
   * _Assignment 6 available in JupyterHub_
-*  Wed 11/04/20 - Lab session
-*  Fri 11/06/20 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+*  Wed 11/03/21 - Lab session
+*  Fri 11/05/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 11 - Finding data in the _wild_ using web scraping
-* Mon  11/09/20 - Web scraping concepts, HTML + CSS
+* Mon  11/08/21 - Web scraping concepts, HTML + CSS
   * Extracting tables from web pages
-* Wed 11/11/20 - Lab session - using `requests` + `BeautifulSoup`
+* Wed 11/10/21 - Lab session - using `requests` + `BeautifulSoup`
 
 
 ### Week 12 - Putting data on the map
-* Mon  11/16/20 - Working with geo data
-* Wed 11/18/20 - Lab session
+* Mon  11/15/21 - Working with geo data
+* Wed 11/17/21 - Lab session
 
 
 ### Week 13 - Interactive visualizations
-* Mon  11/23/20 - Adding movement to your data stories
-* Wed 11/25/20 - NO CLASS (Thanksgiving Holiday)
+* Mon  11/22/21 - Adding movement to your data stories
+* Wed 11/24/21 - NO CLASS (Thanksgiving Holiday)
 
 
 ### Week 14 - Review & Working on projects (1)
-* Mon  11/30/20 - Lab session
-* Wed 12/02/20 - Lab session
-* Fri 12/04/20 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Mon  11/29/21 - Lab session
+* Wed 12/01/21 - Lab session
+* Fri 12/03/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 15 - Review & Working on projects (2)
-* Mon  12/07/20 - Lab session
-* Wed 12/09/20 - Lab session
+* Mon  12/06/21 - Lab session
+* Wed 12/08/21 - Lab session
 
 
-### FINAL PROJECT DUE 11.59pm 12/20/20
-</strike>	
-
-
-
+### FINAL PROJECT DUE 11.59pm 12/??/21
+</strike>
