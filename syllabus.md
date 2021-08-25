@@ -1,8 +1,11 @@
 ## COMM318: _Stories from data_: Introduction to programming for data journalism
 
 **Fall 2021: M/W 3:30-5:00pm**  
+<<<<<<< HEAD
 
 **Professor**: Dr. Matt O'Donnell (he/him/his) 
+=======
+>>>>>>> e4a30fc9ce7c2e4ce9565842681ad3adda5b1aea
 
 **Email**: mbod@asc.upenn.edu
 
