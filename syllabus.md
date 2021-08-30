@@ -9,12 +9,18 @@
 
 **Office hours**: Virtual online meetings through Zoom
 
-* Initially we have scheduled:
+* Initially i have scheduled:
 
-	2. Fridays 1-2pm EST Friday will be an open coding help session
+  1. Tuesday 2-3pm EST
+	2. Fridays 1-2pm EST as an _open coding help session_
+	3. You should always feel able to email me to set up a meeting if you cannot make one of these times.
 
-**Information technology and programming  assistant**: Etienne Jacquot
-**Email**: etienne.jacquot@asc.upenn.edu (he/him/their)
+**NOTE:** There is no TA in this course. But we are fortunate to have:
+* **Information technology and programming  assistant**: Etienne Jacquot
+
+* **Email**: etienne.jacquot@asc.upenn.edu (he/him/their)
+
+   Etienne will often be in class sessions and will be able to help out with technical issues related to the class JupyterHub setup. He is also an experienced data engineer and Python programmer. Within limits he may be able to assist with code and data analysis questions. BUT remember _he is not a TA_.
 
 
 ## Course Description, Goals and Objectives
@@ -32,7 +38,7 @@ financial (e.g., spending on infrastructure, education, other initatives, income
 transportation (e.g., usage statistics for public transportation and private schemes, e.g. bike shares).
 
 * Each week one session will be in lecture form and provide background for the theory and techniques and the second will be a lab session
-in which students will work through programming exercises using Jupyter notebooks (a web-based programming environment well suited for data science and class-based assignments).
+in which students will work through programming exercises using Jupyter notebooks (a web-based programming environment well suited for data science and class-based assignments). Often there will be a video lecture to watch before the session.
 
 * By completing this course students will:
 	* gain an understanding of how data can be used to support the reporting and making of news and other types of storytelling
