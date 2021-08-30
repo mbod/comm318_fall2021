@@ -1,11 +1,8 @@
 ## COMM318: _Stories from data_: Introduction to programming for data journalism
 
 **Fall 2021: M/W 3:30-5:00pm**  
-<<<<<<< HEAD
 
-**Professor**: Dr. Matt O'Donnell (he/him/his) 
-=======
->>>>>>> e4a30fc9ce7c2e4ce9565842681ad3adda5b1aea
+**Professor**: Dr. Matt O'Donnell (he/him/his)
 
 **Email**: mbod@asc.upenn.edu
 
@@ -22,13 +19,15 @@
 
 ## Course Description, Goals and Objectives
 
-Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues -- including activity from social media and open data sources (eg: The Open Government Initiative) -- have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog, LA Times Data Desk). This course offers an introduction to Python programming for data analysis and visualization. Students will learn how to collect, analyze, and present various forms of data. Second, because numbers and their visualizations do not speak for themselves but require context, interpretation, and narrative, students will practice making effective stories from data and presenting them in blogs, articles and other formats.
+Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues -- including activity from social media and open data sources (eg: The Open Government Initiative) -- have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog, LA Times Data Desk). The Covid-19 pandemic has amplified this trend.
+
+This course offers an introduction to Python programming for data analysis and visualization. Students will learn how to collect, analyze, and present various forms of data. Second, because numbers and their visualizations do not speak for themselves but require context, interpretation, and narrative, students will practice making effective stories from data and presenting them in blogs, articles and other formats.
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of data and become familiar with some of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
 * This course will provide an introduction to Python programming for collecting, cleaning, describing and analyzing a range
 of publicly available datasets, including demographic (e.g., age, race, education levels by geographic area),
-medical (e.g. vacination, ER intakes for certain conditions like flu, measles, etc),
+medical (e.g. Covid infection and vacination, ER intakes for certain conditions like flu, measles, etc),
 financial (e.g., spending on infrastructure, education, other initatives, income distribution, etc.), event (e.g., crime data, road accidents) and
 transportation (e.g., usage statistics for public transportation and private schemes, e.g. bike shares).
 
@@ -37,8 +36,10 @@ in which students will work through programming exercises using Jupyter notebook
 
 * By completing this course students will:
 	* gain an understanding of how data can be used to support the reporting and making of news and other types of storytelling
-    * practice skills of making stories by collecting, transforming, visualizing and analyzing publicly available data
+	* practice skills of making stories by collecting, transforming, visualizing and analyzing publicly available data
+
 	* explore the range of various kinds of data now available through initiatives such as Open Government Data initiative (data.gov) and a range of other available and curated data archives
+
 	* be exposed to a range of techniques from data journalism, data science and information visualization and understand how they can be used to tell news/media stories
 	* gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to collect, clean, analyze, visualize and interpret such data
 
@@ -47,13 +48,13 @@ in which students will work through programming exercises using Jupyter notebook
 * Recommended reading
 
     * The two books by Ben Jones in The Data Literacy Series:
-      1. _Data Literacy Fundamentals: Understanding the Power & Value of Data_ 
-      2. _Learning to See Data: How to Interpret the Visual Language of Charts_ 
+      1. _Data Literacy Fundamentals: Understanding the Power & Value of Data_
+      2. _Learning to See Data: How to Interpret the Visual Language of Charts_
     * Tim Harford, _The Data Detective: Ten Easy Rules to Make Sense of Statistics_. Riverhead Books (February 2, 2021)
     * David Spiegelhalter, _The Art of Statistics: How to Learn from Data_. Basic Books (August 17, 2021)
-    
-  
-  
+    * Cole Nussbaumer Knaflic, _Storytelling with data: A visualization guide for business professionals_, Wiley (2015)
+
+
 * Other readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
 
 
@@ -62,43 +63,26 @@ in which students will work through programming exercises using Jupyter notebook
 
 1. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
   * Wednesday class sessions will usually be programming labs. We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to https://github.com/join and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
-  * Assignments will usually be due at __11.59 p.m. (EST) on the Friday__ following lab session (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
+  * Assignments will usually be due at __11.59 p.m. (EST) on the Friday__ (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 
-2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
-    * The goal of this project is to create:
-        1. an engaging data-driven online article
-        2. a data and analysis repository on `github.com` similar those produced by data journalists (e.g. the `LA Times Data Desk`), for example:
-      * github repo: https://github.com/datadesk/notebooks
-      * article: https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
 
-	* The steps in the project are:
-		1. Decide upon a tractable research question that involves analysis of available data sources (e.g. data.gov or other easily available datasource)
+2. **Complete a _group data story project_ that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
 
-		2. Identify, retrieve and prepare relevant data
+ * The groups will be assigned during the first couple of weeks of class. You will work in your group in breakout rooms during lab sessions.
 
-		3. Explore, describe and analyze the dataset
+ * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
-		4. Visualize data to help discover patterns
-
-		5. Interpret findings
-
-		6. Setup a github repository to make your data and analysis publicly available
-
-		7. Tell your data story
-
-			 _You can be creative to how you decide to present your data story. You could write a web-based article, a blog post, a white paper or research report or you create a video, etc. to communicate the stories discovered in your data._
-
-	 * These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
-
-         * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
+ * The key steps of the project will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
 
 
+----
 
 ## Note about learning programming
 
 A central goal of this class is to help students begin to develop programming skills that they can use to approach questions of interest using the various open datasets and data sources available. But like learning any new skill, such as a new language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python code examples that you can find on the web etc.
 
+-----
 
 
 ## Course Schedule
@@ -122,8 +106,6 @@ A central goal of this class is to help students begin to develop programming sk
 		* Introducing lists & indexing
 	* Finding stories in simple data.
 
-
-<strike>
 
 
 ### Week 3 - Python basics (2)
@@ -165,7 +147,7 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 7 - What is data journalism and what can it do?
 * Mon  10/11/21 - Telling the news from data
 * Wed 10/13/21 - Project planning and discussion
-* Fri 10/15/21 - __Initial Project Proposal Notebook DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* ** FALL BREAK 10/14/21 - 10/17/21 - No assignment due **
 
 
 ### Week 8 - Data visualization (Part 1) - Supporting stories with plots
@@ -176,20 +158,23 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 9 - Working with data tables (Part 2) - Summarizing and comparing data dimensions + Exploratory visualization
 * Mon  10/25/21 - Lab Session - Reviewing data article & visualization
+  * _Assignment 6 available in JupyterHub_
 * Wed 10/27/21 - Working with filters and grouping. Reshaping data and using Pandas plotting functions
+*  Fri 10/29/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
 *  Mon  11/01/21 - Merging and joining data
-  * _Assignment 6 available in JupyterHub_
+  * _Assignment 7 available in JupyterHub_
 *  Wed 11/03/21 - Lab session
-*  Fri 11/05/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+*  Fri 11/05/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 11 - Finding data in the _wild_ using web scraping
 * Mon  11/08/21 - Web scraping concepts, HTML + CSS
   * Extracting tables from web pages
+	* _Assignment 8 available in JupyterHub_
 * Wed 11/10/21 - Lab session - using `requests` + `BeautifulSoup`
-
+*  Fri 11/12/21 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 12 - Putting data on the map
 * Mon  11/15/21 - Working with geo data
@@ -198,18 +183,16 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 13 - Interactive visualizations
 * Mon  11/22/21 - Adding movement to your data stories
-* Wed 11/24/21 - NO CLASS (Thanksgiving Holiday)
-
+* Wed 11/24/21 - Lab Session
 
 ### Week 14 - Review & Working on projects (1)
 * Mon  11/29/21 - Lab session
 * Wed 12/01/21 - Lab session
-* Fri 12/03/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+
 
 ### Week 15 - Review & Working on projects (2)
 * Mon  12/06/21 - Lab session
 * Wed 12/08/21 - Lab session
 
 
-### FINAL PROJECT DUE 11.59pm 12/??/21
-</strike>
+### FINAL PROJECT DUE DATE TBA
