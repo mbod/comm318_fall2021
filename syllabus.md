@@ -80,6 +80,8 @@ in which students will work through programming exercises using Jupyter notebook
 
  * The key steps of the project will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
+ * We will discuss the expected structure and components of the project. Some elements will be assessed on an individual basis (e.g. in your group you will each be responsible for one of the data sources relevant to your research question and you will carry out the acquisition, inspection, cleaning and exploration steps on that data source) and others will be graded as a group (e.g. the initial and final project presentations and the project blog)
+
 
 
 ----
