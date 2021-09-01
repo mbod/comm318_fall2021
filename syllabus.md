@@ -1,10 +1,12 @@
 ## COMM318: _Stories from data_: Introduction to programming for data journalism
 
-**Fall 2021: M/W 3:30-5:00pm**  
+**Fall 2021: M/W 3:30-5:00pm (via synchronous Zoom)**  
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
 
 **Email**: mbod@asc.upenn.edu
+
+**Class sessions**: Will be on Zoom. A link for each class is available in the Zoom tab in the course Canvas. You will be expected to be present in each class. Please submit a Course Absence Report (CAR) before class if you will be unable to attend.
 
 
 **Office hours**: Virtual online meetings through Zoom
@@ -12,7 +14,7 @@
 * Initially i have scheduled:
 
   1. Tuesday 2-3pm EST
-	2. Fridays 1-2pm EST as an _open coding help session_
+	2. Fridays 2-3pm EST as an _open coding help session_
 	3. You should always feel able to email me to set up a meeting if you cannot make one of these times.
 
 **NOTE:** There is no TA in this course. But we are fortunate to have:
