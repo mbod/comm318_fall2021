@@ -164,31 +164,29 @@ A central goal of this class is to help students begin to develop programming sk
 * Mon  10/18/21 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
   * _Assignment 5 available in JupyterHub_
 * Wed 10/20/21 - Lab session - Setting
-* Fri 10/22/21 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Sun 10/24/21 - __Assignment 5 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 ### Week 9 - Working with data tables (Part 2) - Summarizing and comparing data dimensions + Exploratory visualization
-* Mon  10/25/21 - Lab Session - Reviewing data article & visualization
-  * _Assignment 6 available in JupyterHub_
-* Wed 10/27/21 - Working with filters and grouping. Reshaping data and using Pandas plotting functions
-*  Fri 10/29/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+* Mon  10/25/21 - Data stories and data exploration
+* Wed 10/27/21 - Data exploration; time series data and Pandas indexing and resampling; Final project planning
 
 ### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
 *  Mon  11/01/21 - Merging and joining data
-  * _Assignment 7 available in JupyterHub_
+  * _Assignment 6 available in JupyterHub_
 *  Wed 11/03/21 - Lab session
-*  Fri 11/05/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+*  Fri 11/05/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
-### Week 11 - Finding data in the _wild_ using web scraping
-* Mon  11/08/21 - Web scraping concepts, HTML + CSS
+### Week 11 - Putting data on the map
+* Mon  11/08/21 - Working with geo data; GeoPandas data frames
+	* _Assignment 7 available in JupyterHub_
+* Wed 11/10/21 - Initial Project Presentations
+*  Fri 11/12/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+
+### Week 12 - Finding data in the _wild_ using web scraping
+* Mon  11/15/21 - - Web scraping concepts, HTML + CSS
   * Extracting tables from web pages
-	* _Assignment 8 available in JupyterHub_
-* Wed 11/10/21 - Lab session - using `requests` + `BeautifulSoup`
-*  Fri 11/12/21 - __Assignment 8 DUE - 11.59pm EST__ (Submit through Jupyterhub)
-
-### Week 12 - Putting data on the map
-* Mon  11/15/21 - Working with geo data
-* Wed 11/17/21 - Lab session
+* Wed 11/17/21 - Lab session - using `requests` + `BeautifulSoup`
 
 
 ### Week 13 - Interactive visualizations
@@ -202,7 +200,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 15 - Review & Working on projects (2)
 * Mon  12/06/21 - Lab session
-* Wed 12/08/21 - Lab session
+* Wed 12/08/21 - Final Project Presentations
 
 
 ### FINAL PROJECT DUE DATE TBA
