@@ -172,6 +172,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
 *  Mon  11/01/21 - Merging and joining data
+  * __Group Initial Project Proposal DUE - 12pm EST__ (JUST ONE MEMBER OF GROUP WILL SUBMIT FOR THE GROUP through JupyterHub)
   * _Assignment 6 available in JupyterHub_
 *  Wed 11/03/21 - Lab session
 *  Fri 11/05/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
