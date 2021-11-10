@@ -171,27 +171,28 @@ A central goal of this class is to help students begin to develop programming sk
 * Wed 10/27/21 - Data exploration; time series data and Pandas indexing and resampling; Final project planning
 
 ### Week 10 -  More data manipulation and visualization (Part 2) - Seeing trends and plot lines in data
-*  Mon  11/01/21 - Merging and joining data
-  * __Group Initial Project Proposal DUE - 12pm EST__ (JUST ONE MEMBER OF GROUP WILL SUBMIT FOR THE GROUP through JupyterHub)
+*  Mon 11/01/21 - Merging and joining data
   * _Assignment 6 available in JupyterHub_
+*  Tue 11/02/21
+  * __Group Initial Project Proposal DUE - 12pm EST__ (JUST ONE MEMBER OF GROUP WILL SUBMIT FOR THE GROUP through JupyterHub)
 *  Wed 11/03/21 - Lab session
 *  Fri 11/05/21 - __Assignment 6 DUE - 11.59pm EST__ (Submit through Jupyterhub)
 
 
 ### Week 11 - Putting data on the map
 * Mon  11/08/21 - Working with geo data; GeoPandas data frames
-	* _Assignment 7 available in JupyterHub_
 * Wed 11/10/21 - Initial Project Presentations
-*  Fri 11/12/21 - __Assignment 7 DUE - 11.59pm EST__ (Submit through Jupyterhub)
+  * Project Assignment Step 1 - data collection and initial exploration
 
-### Week 12 - Finding data in the _wild_ using web scraping
-* Mon  11/15/21 - - Web scraping concepts, HTML + CSS
-  * Extracting tables from web pages
-* Wed 11/17/21 - Lab session - using `requests` + `BeautifulSoup`
+### Week 12 - Asking questions of data
+* Mon  11/15/21 - - Creating question-analysis-answer blocks
+  * __Project Assignment Step 1 DUE - 11.59pm EST__
+* Wed 11/17/21 - Lab session - Project Assignment Step 2
 
 
 ### Week 13 - Interactive visualizations
 * Mon  11/22/21 - Adding movement to your data stories
+  * __Project Assignment Step 2 DUE - 11.59pm EST__
 * Wed 11/24/21 - Lab Session
 
 ### Week 14 - Review & Working on projects (1)
@@ -204,4 +205,4 @@ A central goal of this class is to help students begin to develop programming sk
 * Wed 12/08/21 - Final Project Presentations
 
 
-### FINAL PROJECT DUE DATE TBA
+### FINAL PROJECT DUE DATE FRIDAY DECEMBER 22
