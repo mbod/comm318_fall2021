@@ -193,7 +193,7 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 13 - Interactive visualizations
 * Mon  11/22/21 - Adding movement to your data stories
   * __Project Assignment Step 2 DUE - 11.59pm EST__
-* Wed 11/24/21 - Lab Session
+* Wed 11/24/21 - ** NO CLASS **
 
 ### Week 14 - Review & Working on projects (1)
 * Mon  11/29/21 - Lab session
